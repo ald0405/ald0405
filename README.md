@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 -->
 
 
-I'm an analytics consultant working in the NHS. 
+I have a degree in Biology and and an MScR in Molecular Biology, however  I work as an analytics consultant in the NHS. 
+
 
 My interests are in 
 * Data Analytics 
