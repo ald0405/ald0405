@@ -27,6 +27,13 @@ My interests are in
 * (and on occasion) Data Visualisation
 
 
+I am a member of 
+* AphA
+* NHS PyCom
+* NHS R
+* AnalystX
+
+
 ## Stats
 
 Here is a summary of the key Git statistics:
