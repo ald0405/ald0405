@@ -17,22 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Doer of things 
 
-I have a degree in Biology and and an MScR in Molecular Biology, however  I work as an analytics consultant in the NHS. 
-
-
-My interests are in 
-* Data Analytics 
-* Machine Learning  
-* (and on occasion) Data Visualisation
-
-
-I am a member of 
-* AphA
-* NHS PyCom
-* NHS R
-* AnalystX
-
+** Insert unique yet relatable fun fact here ** 
 
 ## Stats
 
