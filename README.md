@@ -21,6 +21,9 @@ Doer of things
 
 ** Insert unique yet relatable fun fact here ** 
 
+* Creator of [SangerTools](https://github.com/ald0405/SangerTools)
+* Contributor of [MLDataR](https://github.com/ald0405/MLDataR)
+
 ## Stats
 
 Here is a summary of the key Git statistics:
