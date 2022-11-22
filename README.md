@@ -33,3 +33,6 @@ Here is a summary of the key Git statistics:
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ald0405&hide=javascript,html,css,tex&theme=dracula&title_color='#6272a4')](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ald0405&theme=dracula)](https://git.io/streak-stats)
