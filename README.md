@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Doer of things 
 
 ** Insert unique yet relatable fun fact here ** 
