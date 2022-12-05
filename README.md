@@ -23,6 +23,12 @@ Doer of things
 * Creator of [SangerTools](https://github.com/ald0405/SangerTools)
 * Contributor of [MLDataR](https://github.com/ald0405/MLDataR)
 
+[![Linkedin: anmol](https://img.shields.io/badge/-Asif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asiflaldin/)](https://www.linkedin.com/in/asiflaldin/)
+![GitHub followers](https://img.shields.io/github/followers/ald0405?label=Follow&style=social)
+
+
+
+
 ## Stats
 
 Here is a summary of the key Git statistics:
