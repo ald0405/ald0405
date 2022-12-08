@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 Doer of things 
 
-** Insert unique yet relatable fun fact here ** 
 
 * Creator of [SangerTools](https://github.com/ald0405/SangerTools)
 * Contributor of [MLDataR](https://github.com/ald0405/MLDataR)
