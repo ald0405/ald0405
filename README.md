@@ -25,8 +25,6 @@ Doer of things
 ![GitHub followers](https://img.shields.io/github/followers/ald0405?label=Follow&style=social)
 
 
-
-
 ## Stats
 
 Here is a summary of the key Git statistics:
