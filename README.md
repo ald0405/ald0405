@@ -47,10 +47,10 @@ I was a late bloomer
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ald0405&theme=vue)
 
+Some git stats for you
 
-
-Here is a summary of the key Git statistics:
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ald0405&show_icons=true&theme=dracula&title_color='#6272a4')
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
