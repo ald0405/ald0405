@@ -1,6 +1,8 @@
 ### Hi there 👋
 Congratulations you've finally found somebody who uses
 
+
+
 ![YT](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 <!--
 **ald0405/ald0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,6 +42,15 @@ but also work in
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+
+
+![LOOKER](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=plastic)
+
+
+
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
+
 
 ## Learning 
 
