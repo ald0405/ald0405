@@ -54,7 +54,7 @@ but also work in
 
 ## Learning 
 
-How I learned/ing to code 
+How I learn to code 
 
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
