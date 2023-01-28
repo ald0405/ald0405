@@ -39,9 +39,9 @@ I started out working in
 but also work in 
 
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1e0d36?style=for-the-badge&logo=pandas&logoColor=white)
 
 
 
@@ -56,9 +56,9 @@ but also work in
 
 How I learn to code 
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-A020F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
+![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
 
 ## Stats
 
