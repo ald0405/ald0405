@@ -55,10 +55,11 @@ but also work in
 ## Learning 
 
 How I learn to code 
-
+<div id="badges" align="center">
 ![Udemy](https://img.shields.io/badge/Udemy-A020F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
+</div>
 
 ## Stats
 
