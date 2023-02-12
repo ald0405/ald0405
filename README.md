@@ -29,6 +29,7 @@ I am the
 * Contributor of [MLDataR](https://github.com/ald0405/MLDataR)
 
 ## Stack
+<div id="badges" align="center">
 
 I started out working in 
 
@@ -42,34 +43,46 @@ but also work in
 ![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-1e0d36?style=for-the-badge&logo=pandas&logoColor=white)
-
-
-
 ![LOOKER](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=plastic)
-
-
-
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 
+ </div>
 
 ## Learning 
 
 How I learn to code 
 <div id="badges" align="center">
+  
 ![Udemy](https://img.shields.io/badge/Udemy-A020F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
 ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
+
 </div>
+
+
+<div id="stats" align="center">
+
+  
+  
+## The Last 12 Months
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ald0405&theme=dracula)
+
+
+
 
 ## Stats
 
-I was a late bloomer
 
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ald0405&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&hide_title=true&hide_rank=true&icon_color=#00CCFF&title_color=#00CCFF&card_width=100" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ald0405&layout=compact&langs_count=10&theme=dracula&hide_title=true&hide_border=false&icon_color=#00CCFF&title_color=#00CCFF" />
+</a>
+  
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ald0405&theme=vue)
 
-Some git stats for you
 
 <!--Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
   
@@ -77,16 +90,22 @@ Some git stats for you
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ald0405&hide=javascript,html,css,tex&theme=dracula&title_color='#6272a4')](https://github.com/anuraghazra/github-readme-stats)
 
-![Tropy](https://github-profile-trophy.vercel.app/?username=ald0405)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ald0405&theme=dracula&title_color='#6272a4')](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Tropy](https://github-profile-trophy.vercel.app/?username=ald0405&theme=dracula)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ald0405&theme=dracula)](https://git.io/streak-stats)
 
 
+ </div>
 
 
 
 ![GitHub followers](https://img.shields.io/github/followers/ald0405?label=Follow&style=social)
+
+
+
+
 
