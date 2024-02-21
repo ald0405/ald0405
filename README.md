@@ -28,7 +28,7 @@ I am the
 * Creator of [SangerTools](https://github.com/ald0405/SangerTools) an R package for population health analytics 
 * Creator of [Py-Looker-Tools](https://github.com/ald0405/py-looker-tools) python based tools for managing Looker instances -please feel free to contribute
 * Contributor of [MLDataR](https://github.com/ald0405/MLDataR) an R package with curated data sets for healthcare machine learning tasks
-* Creator of [whoop Data](https://github.com/ald0405/whoop-data) - data extraction of wearable IoT device - please feel free to contribute!
+* Creator of [whoop Data](https://github.com/ald0405/whoop-data) - python based data extraction * modelling of wearable IoT device - please feel free to contribute!
 
 ## Stack
 <div id="badges" align="center">
