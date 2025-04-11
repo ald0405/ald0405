@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 You can find me at [![Linkedin: Asif laldin](https://img.shields.io/badge/-Asif_Laldin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asiflaldin/)](https://www.linkedin.com/in/asiflaldin/)
 
 I am the 
+* Creator of [Home Tools](https://github.com/ald0405/home_assistant) an LLM assistant with tools that help me plan my day and understand my wearable data
+* Creator of [Worth A Watch](https://github.com/ald0405/worth-a-watch) an LLM based YouTube Video summariser
 * Creator of [SangerTools](https://github.com/ald0405/SangerTools) an R package for population health analytics 
 * Creator of [Py-Looker-Tools](https://github.com/ald0405/py-looker-tools) python based tools for managing Looker instances -please feel free to contribute
 * Contributor of [MLDataR](https://github.com/ald0405/MLDataR) an R package with curated data sets for healthcare machine learning tasks
