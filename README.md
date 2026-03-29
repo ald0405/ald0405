@@ -1,17 +1,21 @@
 ### 👋 Hi, I’m Asif
 
-I'm a product-focused builder working at the intersection of AI, healthtech, and analytics. I love using large language models to create useful tools and insights — especially where data, user experience, and real-world constraints meet. My background spans data, population health analytics, and prototyping AI-powered products.
+I’m a product builder working across AI, healthtech, and analytics. I’m most interested in products that turn complex data into practical decisions, especially where personalisation, behaviour change, and real-world constraints matter.
+
+--- 
+**AI × Healthcare × Behaviour Change = Personalised health insights**
 
 ---
 
-### 🔧 Projects
+My background spans analytics, population health, and prototyping AI-powered products. I like building tools that reduce friction, improve decision-making, and make data more useful to end users.
 
-- 🏠 [Home Tools](https://github.com/ald0405/home_assistant) – an LLM-powered assistant that helps me plan my day and interpret wearable data using tool-calling and structured reasoning.
-- 📺 [Worth A Watch](https://github.com/ald0405/worth-a-watch) – a YouTube summariser that leverages Gemini and metadata extraction to highlight and summarize high-quality videos.
-- 🏋️‍♂️ [Whoop Data](https://github.com/ald0405/whoop-data) – data extraction and modeling of wearable device data. Currently evolving into a full-stack product with a FastAPI backend, database storage, and personalised insights.
-- 📊 [Py-Looker-Tools](https://github.com/ald0405/py-looker-tools) – Python tools for managing Looker metadata and jobs. Built to streamline BI workflows.
-- 🧬 [SangerTools](https://github.com/ald0405/SangerTools) – R package for scalable population health analytics within the NHS.
-- 📦 [MLDataR](https://github.com/ald0405/MLDataR) – R package of curated datasets for healthcare machine learning projects.
+---
+
+### 🚀 Selected Projects
+
+- 🏋️‍♂️ [**Whoop Data**](https://github.com/ald0405/whoop-data) — A wearable data product exploring how raw health signals can be turned into more personalised, actionable feedback. Currently evolving into a full-stack platform with an API, database layer, and user-facing experience.
+- 📺 [**Worth A Watch**](https://github.com/ald0405/worth-a-watch) — A video triage tool that helps users quickly decide what’s worth watching by combining metadata extraction and LLM-based summarisation.
+- 🧬 [**SangerTools**](https://github.com/ald0405/SangerTools) — An R package for scalable population health analytics in NHS settings, reflecting my background in healthcare data products and applied analytics.
 
 ---
 
@@ -21,41 +25,36 @@ I'm a product-focused builder working at the intersection of AI, healthtech, and
 
 ![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?logo=looker&logoColor=fff&style=for-the-badge)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C1C1C?style=for-the-badge)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 </div>
 
----
-
-### 🚧 Currently Building
-
-- Transforming `whoop-data` into a full-stack platform with FastAPI, PostgreSQL, and React
-- Adding LLM-powered features like feedback loops and recovery predictions
-- Learning CI/CD, testing frameworks, and better repo hygiene to grow as a product engineer
 
 ---
 
-### 🧠 Learning Tools
+### ⚙️ How I work
 
-<div align="center">
-  
-![Udemy](https://img.shields.io/badge/Udemy-A020F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
-![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
+My typical LLM product workflow moves from rough thinking to shipped execution:
 
-</div>
+`Notion → Warp → Linear → Warp → DONE `
+
+- **Notion** for shaping ideas, product thinking, and early requirements
+- **Warp** for prototyping, coding, and working with AI-assisted development workflows
+- **Linear** for turning ideas into scoped, actionable work
+
+I’m especially interested in workflows that make it easier to go from concept to MVP quickly, while keeping product thinking close to execution.
+
+
 
 ---
 
 ### 📫 Let’s Connect
 
-[![Linkedin: Asif Laldin](https://img.shields.io/badge/-Asif_Laldin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asiflaldin/)](https://www.linkedin.com/in/asiflaldin/)
+[![LinkedIn: Asif Laldin](https://img.shields.io/badge/-Asif_Laldin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/asiflaldin/)](https://www.linkedin.com/in/asiflaldin/)
 
 ---
 
@@ -66,8 +65,5 @@ I'm a product-focused builder working at the intersection of AI, healthtech, and
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ald0405&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api?username=ald0405&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ald0405&layout=compact&langs_count=10&theme=dracula" />
-<img src="https://github-profile-trophy.vercel.app/?username=ald0405&theme=dracula" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=ald0405&theme=dracula)](https://git.io/streak-stats)
 
 </div>
-
