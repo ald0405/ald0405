@@ -13,7 +13,7 @@ My background spans analytics, population health, and prototyping AI-powered pro
 
 ### 🚀 Selected Projects
 
-- 🏋️‍♂️ [**Whoop Data**](https://github.com/ald0405/whoop-data) — A wearable data product exploring how raw health signals can be turned into more personalised, actionable feedback. Currently evolving into a full-stack platform with an API, database layer, and user-facing experience.
+- 🏋️‍♂️ [**Whoop Data**](https://github.com/ald0405/whoop-data) — A wearable data product exploring how raw health signals can be turned into more personalised, actionable feedback. Not just showing users data but providing actionable insight through adaptable scientifically grounded proactive nduges.
 - 📺 [**Worth A Watch**](https://github.com/ald0405/worth-a-watch) — A video triage tool that helps users quickly decide what’s worth watching by combining metadata extraction and LLM-based summarisation.
 - 🧬 [**SangerTools**](https://github.com/ald0405/SangerTools) — An R package for scalable population health analytics in NHS settings, reflecting my background in healthcare data products and applied analytics.
 
